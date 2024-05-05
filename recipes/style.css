@@ -1,0 +1,36 @@
+
+html body h1:hover{
+    background-color: rgb(126, 40, 40);
+}
+
+html body h1{
+    background-color: rgb(146, 78, 78);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+}
+
+html body header h1{
+    font-size: 100px;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: wheat;
+}
+html body p{
+    font-size: 25px;
+}
+
+img{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    width: 50%;
+    height: auto;
+}
+
+ul, ol{
+    font-size: 25px;
+}
